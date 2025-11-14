@@ -1,0 +1,5 @@
+base\BaseTest.class
+endpoints\UserEndpoints.class
+utils\SchemaValidatorUtil.class
+payloads\UserPayload.class
+utils\ReportManager.class
